@@ -1,0 +1,6 @@
+aiogram
+bs4
+requests
+uvloop
+selenium
+bot = Bot(token="6134936077:AAFU73VCKd8DYS4pv-8kmtLtT1vk2AK5K-A")
